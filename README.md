@@ -40,7 +40,7 @@ graph TD
 ```
 
 **Componentes**:
-- 🤖 **Modelo Base**: DialoGPT-medium (345M parámetros)
+- 🤖 **Modelo Base**: GPTMini O3 - medium
 - 🔧 **Fine-tuning**: LoRA (Low-Rank Adaptation)
 - 📊 **Datasets**: CodeXGLUE, JetBrains Test Generation, Requirements (sintético)
 - 📚 **RAG**: Validación con base de conocimiento de QA
